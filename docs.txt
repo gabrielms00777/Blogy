@@ -1,0 +1,41 @@
+Blog
+
+Templates:
+	AdminLTE
+	Blogy
+
+Telas:
+	Site:
+		Home
+		Search result
+		Blog
+		Blog single
+		Category
+
+	Admin:
+		List:
+			Users
+			Posts
+			Categories
+			Comments (Ver e aporvar)
+		Create:
+			Post
+			Category
+
+Banco de dados:
+	User (Padrão)
+	Category:
+		- Name
+		- Status
+	Category_post:
+		- Category_id
+		- Post_id
+	Post:
+		- User_id
+		- Title
+		- Image(Depois)
+		- Content
+	Comment:
+		- Name
+		- Email
+		- Message

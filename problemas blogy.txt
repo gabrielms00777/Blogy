@@ -1,0 +1,37 @@
+problemas blogy
+
+geral:
+	ok - arrumar traducao
+	ok - arrumar o footer
+
+home:
+	ok (metade) - arumar a home
+
+blog:
+	ok - arrumar Popular Posts e tags
+
+blog-single:
+	ok - esta sem nome no Por
+	ok - arrumar texto do sobre
+	ok - arrumar validacao do comentario
+	ok - arrumar MORE BLOG POSTS
+
+
+contato:
+	ok - attumar links, traducao e informacoes
+	ok - colocar validacoes
+
+dashboard:
+	ok - colocar cards de infos
+categorias:
+	ok - arrumar os modais
+
+create post:
+	ok - mudar o nome do file input
+
+comments index:
+	ok - arrumar o status
+contact:
+	ok - arrumar o modal
+    ok - arrumar infos
+
